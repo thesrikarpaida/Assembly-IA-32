@@ -1,2 +1,4 @@
-# Assembly-IA-32
-C program snippets to IA-32 Assembly and vice versa.
+# Assembly IA-32 and C Programs
+
+
+This repository contains Assembly IA-32 programs as well as the equivalent C code snippets.
